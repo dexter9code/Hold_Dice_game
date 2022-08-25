@@ -9,3 +9,9 @@ Every player gets a chance to roll the dice. He or she can roll the die, and if 
 `Winner`
 
 First player to hit 50 wins
+
+
+<img src='https://github.com/dexter9code/Hold_Dice_game/blob/master/real_hold_dice.png' width='100%' height='500' >
+
+
+Best Example of  `dom manipulation`
